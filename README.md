@@ -1,4 +1,2 @@
 # CTF-Writeups from competitions in CTFtime, hackthebox,...
-Forensic - Writeups
-Reverse Engineering - Writeups
-Osint - Writeups
+Forensic - Reverse Engineering - Osint (Writeups)
